@@ -8,7 +8,7 @@ El proyecto resuelve la gestión reactiva de averías en la red de oficinas, ant
 * **Acción principal:** Identificar visualmente los tickets críticos para reclamar su resolución temprana al proveedor.
 
 ### 2. Imagen mockup del frontal
-![Mockup del frontal](../assets/05_mockup_frontal.png)
+![Mockup del frontal](../assets/05_mockup_frontal.jpg)
 
 ### 3. Justificación del diseño
 **3.1. Utilidad y valor de la solución**
